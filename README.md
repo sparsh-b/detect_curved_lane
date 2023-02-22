@@ -12,4 +12,11 @@
 - Usage: `python3 turn_predict.py`. 
 - Output is written to the directory `results.`
 
-[Link to output_video](https://drive.google.com/file/d/1NJPplmmRztR6FC4WjFEE7SZM_tXzoh37/view?usp=sharing)
+## Results
+- The below video shows the outpt of the algorithm.
+- The top part of the video shows the curved lane detected.
+- The bottom-right shows the detected solid & dashed divider lines.
+- The bottom left shows the homography (top-view) of the divider lines.
+
+https://user-images.githubusercontent.com/45140884/220531403-4f32b385-a8e3-4884-9d3c-8252bc128238.mp4
+
